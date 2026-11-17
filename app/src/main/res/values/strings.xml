@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WattWise</string>
+    <string name="nav_overview">Overview</string>
+    <string name="nav_appliances">Appliances</string>
+    <string name="nav_optimizer">Optimizer</string>
+    <string name="nav_tariff_bills">Tariff &amp; Bills</string>
+    <string name="action_add_appliance">Add Appliance</string>
+    <string name="action_load_demo">Load Demo Household</string>
+    <string name="action_apply_all">Apply All Optimizations</string>
+    <string name="action_log_bill">Log Monthly Bill</string>
+    <string name="empty_title">No appliances tracked yet</string>
+    <string name="empty_subtitle">Add your household appliances to calculate tiered slab bills, detect peak-hour waste, and unlock smart schedules.</string>
+    <string name="cd_hero_banner">Smart solar home energy dashboard illustration</string>
+    <string name="cd_add_appliance">Add new appliance</string>
+    <string name="cd_edit_appliance">Edit appliance</string>
+    <string name="cd_delete_appliance">Delete appliance</string>
+    <string name="cd_delete_bill">Delete bill reading</string>
+</resources>

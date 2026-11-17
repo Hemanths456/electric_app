@@ -1,0 +1,6 @@
+{
+  "name": "WattWise",
+  "description": "Smart electricity bill optimizer for tracking appliances, tiered tariff slabs, time-of-use scheduling, and monthly bill savings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
